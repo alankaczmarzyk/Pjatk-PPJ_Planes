@@ -1,4 +1,4 @@
-# Planesjava
+# Planes.java
 
 Treść projektu
 
